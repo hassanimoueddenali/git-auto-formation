@@ -4,3 +4,11 @@
 ## git config --global user.email<!-- to enter ur email--->
 ## cd  <!--open the road -->
 ## git config <!--to know all possible commands-->
+## git clone 
+## git branch
+## * master
+## git branch 
+## git checkout 
+## git commit -m ""
+## git push
+## git pull
