@@ -12,3 +12,5 @@
 ## git commit -m ""
 ## git push
 ## git pull
+## nano (name of the file)<!--to write down semothing -->
+## touch <!---to creat a file-->
